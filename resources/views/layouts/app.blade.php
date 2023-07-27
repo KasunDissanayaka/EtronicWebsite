@@ -1,0 +1,5 @@
+@include('common.header')
+@include('common.slider')
+@include('common.navigation')
+@yield('content')
+@include('common.footer')
